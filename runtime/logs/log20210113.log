@@ -1,0 +1,6 @@
+[INFO][reason.go:20]2021/01/13 11:10:33 [Error 1292: Incorrect datetime value: '0000-00-00' for column 'add_time' at row 1]
+[INFO][reason.go:20]2021/01/13 13:41:35 [Error 1292: Incorrect datetime value: '0000-00-00' for column 'add_time' at row 1]
+[INFO][request.go:12]2021/01/13 13:42:12 [type type必须小于等于5]
+[INFO][reason.go:20]2021/01/13 13:43:12 [Error 1292: Incorrect datetime value: '0000-00-00' for column 'add_time' at row 1]
+[INFO][reason.go:20]2021/01/13 13:50:57 [Error 1292: Incorrect datetime value: '0000-00-00' for column 'add_time' at row 1]
+[INFO][reason.go:20]2021/01/13 14:05:55 [Error 1292: Incorrect datetime value: '0000-00-00' for column 'add_time' at row 1]
